@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.RunTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 212.102 s <<< FAILURE! - in runner.RunTest
+Realizar Cadastro.Verificar se cadastro de usuario com senha "Weak" não e concluido  Time elapsed: 18.985 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Very weak - Please enter a stronger password.]> but was:<[]>
+
